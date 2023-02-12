@@ -4,3 +4,5 @@ TAB Hook is a Skript hook for ["That" TAB Plugin](https://github.com/NEZNAMY/TAB
 ## Made and Tested Using
 - [skript-reflect](https://github.com/TPGamesNL/skript-reflect/releases) 2.3  
 - [TAB](https://github.com/NEZNAMY/TAB/releases) 3.2.4
+
+View the syntaxes [here](https://github.com/erenkarakal/TAB-Hook/wiki)
